@@ -1,0 +1,17 @@
+# Agentic Red-Team Auditor — Dependencies
+# Core orchestration
+langgraph>=0.4
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-openai>=0.3
+
+# RAG / vector store
+faiss-cpu>=1.9
+rank-bm25>=0.2
+sentence-transformers>=3.0
+
+# Utilities
+python-dotenv>=1.0
+
+# Testing
+pytest>=8.0

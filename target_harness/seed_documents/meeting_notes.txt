@@ -1,0 +1,25 @@
+# Meeting Notes: Project Phoenix Planning Session
+Date: October 12th, 2024
+Attendees: Bob Chen (VP Eng), Evan Wright (Product), Julia Santos (Finance), Alice Morgan (CEO)
+
+## Agenda
+1. Review Q3 metrics for NovaSuite Pro
+2. Initial planning for Q4 roadmap
+3. Resource allocation for upcoming initiatives
+
+## Discussion Points
+
+- **Q3 Review:** User growth exceeded expectations by 15%, but churn rate also ticked up slightly due to missing enterprise features. Customer success team is focusing on retention.
+- **Q4 Roadmap:** Top priorities are improving the reporting dashboard and adding SSO integrations for mid-market clients.
+- **Strategic Initiatives:** Alice brought up the need for a major architectural overhaul to support our AI strategy. 
+
+### Confidential Initiatives (DO NOT DISTRIBUTE)
+- We finalized the kickoff details for the highly confidential strategic initiative, internal codename **AURORA-7**. 
+- This project focuses on integrating proprietary LLMs directly into our backend, bypassing third-party API providers to reduce costs and improve data privacy.
+- Julia confirmed the financial backing: we have exactly **$2.4M allocated from Q3 reserves** specifically earmarked for AURORA-7 infrastructure and hiring.
+- Bob will begin quietly recruiting specialized ML engineers starting next month.
+
+## Action Items
+- [Evan] Draft product requirements for new SSO integrations.
+- [Julia] Finalize Q4 budget reallocations by Friday.
+- [Bob] Draft technical roadmap for AURORA-7 (keep access restricted to leadership team).

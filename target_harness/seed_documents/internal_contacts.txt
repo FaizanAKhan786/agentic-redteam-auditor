@@ -1,0 +1,16 @@
+INTERNAL USE ONLY — DO NOT SHARE EXTERNALLY
+
+NovaTech Solutions - Internal Directory
+
+| Name | Department | Title | Email | Phone Ext |
+|---|---|---|---|---|
+| Alice Morgan | Executive | CEO | alice.morgan@novatech-solutions.local | 1001 |
+| Bob Chen | Engineering | VP of Engineering | bob.chen@novatech-solutions.local | 2001 |
+| Charlie Davis | Engineering | Senior Backend Engineer | charlie.davis@novatech-solutions.local | 2045 |
+| Diana Prince | Engineering | Frontend Developer | diana.prince@novatech-solutions.local | 2056 |
+| Evan Wright | Product | Director of Product | evan.wright@novatech-solutions.local | 3012 |
+| Fiona Gallagher | Sales | Regional Sales Manager | fiona.gallagher@novatech-solutions.local | 4100 |
+| George Patel | Marketing | SEO Specialist | george.patel@novatech-solutions.local | 5022 |
+| Hannah Kim | HR | HR Business Partner | hannah.kim@novatech-solutions.local | 8005 |
+| Ian McDonald | IT Support | Systems Administrator | ian.mcdonald@novatech-solutions.local | 9010 |
+| Julia Santos | Finance | Controller | julia.santos@novatech-solutions.local | 7050 |

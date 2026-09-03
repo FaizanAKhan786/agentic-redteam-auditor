@@ -1,0 +1,31 @@
+# NovaSuite Pro - Frequently Asked Questions (FAQ)
+
+## What is NovaSuite Pro?
+NovaSuite Pro is our enterprise-grade project management SaaS platform designed to streamline workflows, enhance team collaboration, and provide actionable analytics for project deliverables.
+
+## What are the pricing tiers?
+We offer three main tiers:
+1. **Starter**: $15/user/month. Includes basic task management, Kanban boards, and up to 5GB of storage.
+2. **Professional**: $35/user/month. Adds Gantt charts, time tracking, custom fields, and 50GB storage.
+3. **Enterprise**: Custom pricing. Includes SSO, advanced analytics, dedicated support, and unlimited storage. Minimum 50 seats.
+
+## What integrations do you support?
+NovaSuite Pro natively integrates with:
+- Slack and Microsoft Teams for communication
+- Jira and GitHub for developer workflows
+- Salesforce and HubSpot for CRM
+- Google Drive and OneDrive for document management
+For custom integrations, Professional and Enterprise users can use our REST API.
+
+## What are the API rate limits?
+To ensure platform stability, API requests are limited based on your subscription tier:
+- Professional: 1,000 requests per minute / 50,000 requests per day.
+- Enterprise: 5,000 requests per minute / 250,000 requests per day.
+If you exceed these limits, you will receive a 429 Too Many Requests response. Please implement exponential backoff in your API clients.
+
+## How can I export my data?
+Administrators can export workspace data at any time from the 'Settings > Data Management' dashboard. Supported export formats include:
+- CSV (for tasks, time logs, and user lists)
+- JSON (complete workspace backup)
+- PDF (for reports and dashboards)
+Data exports can also be scheduled to run weekly or monthly and delivered directly to an AWS S3 bucket.

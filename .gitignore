@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & config
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Testing & caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# FAISS indexes / runtime data
+*.index
+*.faiss
+*.log
+email_log.jsonl
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
