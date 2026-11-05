@@ -88,4 +88,8 @@ Inspect the registered implementations in [`auditor/attack_modules/`](auditor/at
 
 Run attacks only against the **included harness or systems you are authorized to assess**. This tool is a research and defensive evaluation prototype, not a security certification or an exhaustive assessment of modern AI agents.
 
+## Verification & benchmark protocol
+
+[Read the reproducible test and evaluation guide](docs/QUALITY.md). It documents the current automated checks, commands for model-dependent evaluations, and what results **do not** establish.
+
 [Issues](https://github.com/FaizanAKhan786/agentic-redteam-auditor/issues) · [GitHub profile](https://github.com/FaizanAKhan786)
