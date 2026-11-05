@@ -53,11 +53,14 @@ cd agentic-redteam-auditor
 python -m venv .venv
 source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+python -m auditor.orchestrator --demo  # self-contained simulated audit
+
+# For real model-backed local testing:
 cp .env.example .env
 python -m auditor.orchestrator
 ```
 
-The template is configured for a local Ollama-compatible endpoint at `http://localhost:11434/v1`. Adjust model names and connection settings to match your provider; a working LLM service and local embedding model may be needed for full execution.
+The optional model-backed mode uses a template configured for a local Ollama-compatible endpoint at `http://localhost:11434/v1`. Adjust model names and connection settings to match your provider; a working LLM service and local embedding model may be needed for full execution.
 
 For deterministic unit checks:
 
