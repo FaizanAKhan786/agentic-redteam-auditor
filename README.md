@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://github.com/FaizanAKhan786/agentic-redteam-auditor"><img src="docs/project-showcase.svg" alt="agentic-redteam-auditor conceptual AI system architecture artwork" width="100%" /></a>
+  <br />
+
 
 # Agentic Red-Team Auditor
 ### Security testing for tool-using and retrieval-augmented AI
